@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2? family= Mulish:wght@200 & display=swap');
+body {
+    background-color: azure;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    color: steelblue;
+}
+
+li {
+    color: #CC0000;
+}
+
+li :hover {
+    color: #FFF;
+    background-color: #CC0000;
+}
+
+li ::after {
+    color: #CCC;
+}
