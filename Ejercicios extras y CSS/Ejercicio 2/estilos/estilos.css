@@ -1,0 +1,27 @@
+#tabla {
+    border: 1px #333 solid;
+    padding: 0px 0px;
+}
+
+#Encabezado-columna {
+    background-image: url(/img/fondo_gris.gif);
+    background-size: cover;
+}
+
+.Encabezado-fila {
+    font-style: bold;
+    text-align: left;
+    background-color: #E6F3FF;
+    border: 1px black solid;
+    margin: 0px 0px;
+}
+
+.e-d {
+    background-image: url(/img/euro.png)
+}
+
+.d-y {}
+
+.l-d {}
+
+.y-e {}
