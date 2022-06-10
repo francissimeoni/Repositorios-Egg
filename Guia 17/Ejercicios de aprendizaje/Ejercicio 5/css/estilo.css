@@ -1,0 +1,47 @@
+/* section {
+    border: 1px solid black;
+    height: auto;
+    width: auto;
+} */
+
+#seccion-1 {
+    float: left;
+    width: 500px;
+    margin: 100px 350px;
+}
+
+#suma {
+    border: 1px solid black;
+    width: 200px;
+    padding: 20px 20px;
+    margin-bottom: 20px;
+    display: block;
+    float: left;
+}
+
+#resta {
+    border: 1px solid black;
+    width: 200px;
+    padding: 20px 20px;
+    margin-bottom: 20px;
+    display: block;
+    float: right;
+}
+
+#dividir {
+    border: 1px solid black;
+    width: 200px;
+    padding: 20px 20px;
+    margin-bottom: 20px;
+    display: block;
+    float: left;
+}
+
+#multiplicar {
+    border: 1px solid black;
+    width: 200px;
+    padding: 20px 20px;
+    margin-bottom: 20px;
+    display: block;
+    float: right;
+}
