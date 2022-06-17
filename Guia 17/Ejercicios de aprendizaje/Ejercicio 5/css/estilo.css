@@ -4,17 +4,35 @@
     width: auto;
 } */
 
-#seccion-1 {
+#master {
     float: left;
-    width: 500px;
+    width: 600px;
+    height: 700px;
     margin: 100px 350px;
+    border: 1px solid red;
+}
+
+#s1 {
+    float: left;
+    width: 550px;
+    height: 300px;
+    margin: 100px 350px;
+    border: 1px solid black;
+}
+
+#s2 {
+    float: left;
+    width: 550px;
+    height: 300px;
+    margin: 100px 350px;
+    border: 1px solid black;
 }
 
 #suma {
     border: 1px solid black;
     width: 200px;
     padding: 20px 20px;
-    margin-bottom: 20px;
+    margin: 20px 20px;
     display: block;
     float: left;
 }
@@ -23,7 +41,7 @@
     border: 1px solid black;
     width: 200px;
     padding: 20px 20px;
-    margin-bottom: 20px;
+    margin: 20px 20px;
     display: block;
     float: right;
 }
