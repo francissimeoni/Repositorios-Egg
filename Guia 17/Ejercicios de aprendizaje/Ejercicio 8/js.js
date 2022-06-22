@@ -12,8 +12,6 @@ function ObtenerDatos() {
     minima = numero;
     maxima = numero;
 
-
-
     do {
 
         if (parseInt(numero) > parseInt(maxima)) {
